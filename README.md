@@ -1,7 +1,8 @@
 # Il2CppDumper
 Unity il2cpp reverse engineer
+
 work well with last version albion online (at moment 12.11.2024)
-RESPECT chines dude whus updated it!!
+RESPECT chines dude  AndnixSH whus updated it!!
 
 ## Features
 
