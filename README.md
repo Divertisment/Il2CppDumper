@@ -1,5 +1,5 @@
 added work_dir and same path to files...
- ```c# [STAThread]
+ ```csharp [STAThread]
  static void Main(string[] args) {
      config = JsonSerializer.Deserialize<Config>(File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + @"config.json"));
      var work_dir = @"D:\AO Nix\";
